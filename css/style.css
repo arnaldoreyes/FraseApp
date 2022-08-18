@@ -1,0 +1,25 @@
+#populares img {
+    height: 100px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.gradiente {
+    height: 14px;
+    margin-bottom: 8px;
+    background: linear-gradient(90deg, #fbb923, #fff);
+}
+
+.cards {
+    max-height: 300px;
+    max-width: 200px;
+    justify-content: center;
+}
+
+.cards_text {
+    font-size: 12px;
+}
+
+.cards_text-link {
+    color: #fbb923;
+}
